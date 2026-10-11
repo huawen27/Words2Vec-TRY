@@ -2,7 +2,7 @@
 
 | 序号 | 模型/结果文件 | Score |
 |---:|---|---:|
-| 1 | roberta_large_trainer.csv | **0.0.95152** |
+| 1 | roberta_large_trainer.csv | **0.95152** |
 | 2 | bert_trainer.csv | **0.93844** |
 | 3 | bert_scratch.csv | **0.93800** |
 | 4 | distillbert_trainer.csv | **0.92760** |
